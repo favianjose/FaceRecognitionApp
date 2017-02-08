@@ -1,0 +1,13 @@
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUIApp1.exe
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUIApp1.pdb
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\FirstFloor.ModernUI.dll
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\FirstFloor.ModernUI.xml
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.csprojResolveAssemblyReference.cache
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\MainWindow.baml
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\App.baml
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\MainWindow.g.cs
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\App.g.cs
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1_MarkupCompile.cache
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.g.resources
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.exe
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.pdb

@@ -1,0 +1,62 @@
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.exe
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.pdb
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUIApp1.exe
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUIApp1.pdb
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.UI.dll
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.UI.GL.dll
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.World.dll
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\FirstFloor.ModernUI.dll
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\ZedGraph.dll
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.UI.pdb
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.UI.xml
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.UI.GL.xml
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.World.xml
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\FirstFloor.ModernUI.xml
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\ZedGraph.xml
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\bin\Debug\zh-CN\ZedGraph.resources.dll
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\FaceDetection_App.csprojResolveAssemblyReference.cache
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\MainWindow.baml
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\App.baml
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\MainWindow.g.cs
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\App.g.cs
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1_MarkupCompile.cache
+c:\users\gonzalez_j\documents\visual studio 2012\Projects\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.g.resources
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.exe
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.pdb
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\App.baml
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\App.g.cs
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1_MarkupCompile.cache
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUIApp1.exe
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUIApp1.pdb
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\MainWindow.baml
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\MainWindow.g.cs
+C:\Users\gonzalez_j\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.g.resources
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUIApp1.exe
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUIApp1.pdb
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\FaceDetection_App.csprojResolveAssemblyReference.cache
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\MainWindow.baml
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\App.baml
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\App.g.cs
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1_MarkupCompile.cache
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.g.resources
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.exe
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.pdb
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.World.dll
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\ZedGraph.dll
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\ZedGraph.xml
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Favian\Box Sync\Jose.Gonzalez's Private Documents\ModernUIApp1\ModernUIApp1\bin\Debug\zh-CN\ZedGraph.resources.dll
